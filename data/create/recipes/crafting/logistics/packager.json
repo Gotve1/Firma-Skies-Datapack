@@ -6,7 +6,7 @@
       "item": "create:cardboard_block"
     },
     "C": {
-      "tag": "createbigcannons:inexpensive_sheet"
+      "item": "tfc:metal/sheet/wrought_iron"
     },
     "R": {
       "tag": "forge:dusts/redstone"
